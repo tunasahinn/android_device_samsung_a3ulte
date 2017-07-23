@@ -19,7 +19,7 @@
 set -e
 
 # Required!
-export DEVICE=a3lte
+export DEVICE=a3ulte
 export DEVICE_COMMON=a3-common
 export VENDOR=samsung
 
