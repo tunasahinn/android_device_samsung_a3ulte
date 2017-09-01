@@ -2,7 +2,7 @@
 -include device/samsung/a3-common/BoardConfigCommon.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := a3ltexx,a3ultexx,a33gxx,a33g,a3lte,a3ulte
+TARGET_OTA_ASSERT_DEVICE := a3ulte,a3ultexx
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_a3u_defconfig
