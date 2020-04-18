@@ -5,7 +5,7 @@
 TARGET_OTA_ASSERT_DEVICE := a3ulte,a3ultexx
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_a3u_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := a3u_defconfig
 
 # Partition sizes
 BOARD_SYSTEMIMAGE_PARTITION_SIZE    := 1568669696
